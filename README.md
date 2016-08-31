@@ -19,7 +19,7 @@ The board is blank, with the below numbers corresponding to their respective spa
  4 | 5 | 6 
 -----------
  7 | 8 | 9 
-
+-----------
 Enter your desired board configuration, X for X, O for O, and the respective number for the blank space.
 
 For example, to get the board configuration found on my blog post type
@@ -30,7 +30,7 @@ X,X,O,X,O,O,7,8,9 which will return
  X | O | O 
 -----------
  7 | 8 | 9 
-
+-----------
 I recommend you download the pry gem and uncomment my pry comments to look into the return values if you would like a better feel for how the minimax algorithm works.
 
 ## Contributing
